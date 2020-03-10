@@ -1,0 +1,4 @@
+# gitignore
+*/intermediate_files
+*/notebooks/.ipynb_checkpoints
+*/notebooks/rik_kernel*
