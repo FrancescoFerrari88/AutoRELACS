@@ -1,1 +1,2 @@
-# Repository collecting the reproducible code for AutoRELACS paper
+# AutoRELACS: Automated Generation And Analysis Of Ultra-parallel ChIP-seq
+### REPRODUCIBLE CODE 
